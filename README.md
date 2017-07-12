@@ -13,4 +13,4 @@ python database.py
 scrapy crawl LianjiaSpider
 ```
 等待爬虫爬取之后，在数据库中查看如图
-![](/screenshots/mysql.png)
+![](https://github.com/zjhdota/LianjiaSpider/screenshot/mysql.png)
